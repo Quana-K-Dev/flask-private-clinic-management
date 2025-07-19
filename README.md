@@ -244,20 +244,3 @@ Hãy đảm bảo **pytest** pass toàn bộ (`pytest -q`) và **pre‑commit** 
 
 ---
 
-## Giấy phép
-
-Dự án được phát hành theo giấy phép **MIT**. Xem file [`LICENSE`](LICENSE) để biết thêm chi tiết.
-
----
-
-## Liên hệ
-
-| Tên | Email |
-|-----|-------|
-| Nguyễn Thanh Hoàng | hoang.nt@example.com |
-| Nguyễn Đức An | an.nd@example.com |
-| Nguyễn Trung Quân | quan.nt@example.com |
-
-Nếu dự án hữu ích, hãy ⭐ **star** repo để ủng hộ!
-
----
